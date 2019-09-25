@@ -1,0 +1,1 @@
+{"ast":null,"code":"import H3 from \"./h3\";","map":{"version":3,"sources":["/home/nilufar/next-with-styled-component/scr/ui/typograf/typograf.js"],"names":["H3"],"mappings":"AAAA,OAAOA,EAAP,MAAe,MAAf","sourcesContent":["import H3 from \"./h3\""]},"metadata":{},"sourceType":"module"}

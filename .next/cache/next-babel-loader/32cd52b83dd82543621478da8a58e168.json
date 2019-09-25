@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nvar BoxsedButton = styled.button.withConfig({\n  displayName: \"boxedButton__BoxsedButton\",\n  componentId: \"sc-1j71w0s-0\"\n})([\"width:160px;height:60px;background:#fff;cursor:pointer;margin-bottom:30px;border:none;font-weight:bold;\"]);\nexport default BoxsedButton;","map":null,"metadata":{},"sourceType":"module"}
